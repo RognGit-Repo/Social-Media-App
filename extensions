@@ -1,0 +1,4 @@
+ES7 React-Redux-ReactNativeSnippets
+-For shortcut rcfe for creating functional component
+Tailwind CSS Intellisense
+- For Languange Mode, and avoid eslint or prettier to break the format of css for tailwind to read
